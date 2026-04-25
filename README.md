@@ -232,6 +232,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Powertool](https://github.com/aws-powertools/powertools-mcp)** - An MCP implementation that provides search functionality for the Powertools for AWS Lambda documentation across multiple runtimes.
 - **[Prisma Postgres](https://github.com/prisma/mcp)** - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries)
 - **[ProdEAI](https://github.com/CuriousBox-AI/ProdE-mc)** - Your 24/7 production engineer that preserves context across multiple codebases [Prode.ai](https://prode.ai).
+- **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** - MCP server + CLI that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image models. Zero API key for first run via Pollinations, Stable Horde, and HuggingFace. MIT licensed.
 - **[QA Sphere](https://github.com/Hypersequent/qasphere-mcp)** - Integration with [QA Sphere](https://qasphere.com/) test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
 - **[Qdrant](https://github.com/qdrant/mcp-server-qdrant/)** - Implement semantic memory layer on top of the Qdrant vector search engine
 - **[RAD Security](https://github.com/rad-security/mcp-server)** - Interact with the RAD Security platform which provides AI-powered security insights for Kubernetes and cloud environments.
